@@ -1,0 +1,9 @@
+baseURL = 'http://glowing-telegram.com/'
+languageCode = 'en-AU'
+title = 'Glowing Telegram'
+theme = "hyde"
+
+[Menus]
+  main = [
+
+  ]
