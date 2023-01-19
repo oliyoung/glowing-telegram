@@ -1,3 +1,8 @@
+---
+title: "Derivatives"
+draft: false
+---
+
 A derivative is a financial contract that derives its value from an underlying asset. These underlying assets can be stocks, bonds, commodities, currencies, interest rates, or market indexes. Derivatives are often used to manage risk or for speculative purposes.
 
 There are several types of derivatives, including:
