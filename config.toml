@@ -1,7 +1,13 @@
 baseURL = 'http://glowing-telegram.com/'
 languageCode = 'en-AU'
 title = 'Glowing Telegram'
-theme = "hyde"
+theme = "terminal"
+
+[params]
+contentTypeName = "definition"
+fullWidthTheme = false
+centerTheme = true
+logo.logoText = "Glowing Telegram"
 
 [Menus]
   main = [
